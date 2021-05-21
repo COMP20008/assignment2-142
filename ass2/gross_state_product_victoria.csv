@@ -1,0 +1,41 @@
+time,Victoria ;  Gross state product: Chain volume measures ;,Victoria ;  Gross state product: Chain volume measures - Percentage changes ;,Victoria ;  Gross state product per capita: Chain volume measures ;,Victoria ;  Gross state product per capita: Chain volume measures - Percentage changes ;,Victoria ;  Real gross state income: Chain volume measures ;,Victoria ;  Real gross state income: Chain volume measures - Percentage changes ;,Victoria ;  Real gross state income per capita: Chain volume measures ;,Victoria ;  Real gross state income per capita: Chain volume measures - Percentage changes ;,Victoria ;  Gross state product: Current prices ;,Victoria ;  Gross state product: Current prices - Percentage Changes ;,Victoria ;  Gross state product: Ratio ;,Victoria ;  Gross state product per capita: Current prices ;,Victoria ;  Gross state product per capita: Current prices - Percentage Changes ;,Victoria ;  Gross state product per capita: Ratio ;
+Unit,$ Millions,Percent,$,Percent,$ Millions,Percent,$,Percent,$ Millions,Percent,proportion,$,Percent,proportion
+Series Type,Original,Original,Original,Original,Original,Original,Original,Original,Original,Original,Original,Original,Original,Original
+Data Type,DERIVED,DERIVED,DERIVED,DERIVED,DERIVED,DERIVED,DERIVED,DERIVED,DERIVED,DERIVED,DERIVED,DERIVED,DERIVED,DERIVED
+Frequency,Annual,Annual,Annual,Annual,Annual,Annual,Annual,Annual,Annual,Annual,Annual,Annual,Annual,Annual
+Collection Month,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+Series Start,Jun-1990,Jun-1991,Jun-1990,Jun-1991,Jun-1992,Jun-1993,Jun-1992,Jun-1993,Jun-1990,Jun-1991,Jun-1990,Jun-1990,Jun-1991,Jun-1990
+Series End,Jun-2020,Jun-2020,Jun-2020,Jun-2020,Jun-2020,Jun-2020,Jun-2020,Jun-2020,Jun-2020,Jun-2020,Jun-2020,Jun-2020,Jun-2020,Jun-2020
+No. Obs,31,30,31,30,29,28,29,28,31,30,31,31,30,31
+Series ID,A2336347R,A2336356T,A2336365V,A2336374W,A2336383X,A2336392A,A2336303L,A2336312R,A2336321T,A2336330V,A2336339R,A2336249K,A2336258L,A2336267R
+Jun-1990,203699,,46846,,,,,,104506,,25.9,24034,,100.8
+Jun-1991,198395,-2.6,45083,-3.8,,,,,105079,0.5,25.4,23878,-0.7,98.9
+Jun-1992,195546,-1.4,44091,-2.2,184873,,41684,,104073,-1.0,24.6,23466,-1.7,96.5
+Jun-1993,205230,5.0,46034,4.4,192638,4.2,43210,3.7,110460,6.1,24.9,24777,5.6,98.1
+Jun-1994,212112,3.4,47487,3.2,198063,2.8,44342,2.6,115863,4.9,24.9,25939,4.7,98.7
+Jun-1995,218533,3.0,48745,2.6,205822,3.9,45910,3.5,121665,5.0,24.6,27138,4.6,98.2
+Jun-1996,226098,3.5,50051,2.7,214059,4.0,47386,3.2,129242,6.2,24.5,28610,5.4,98.2
+Jun-1997,236171,4.5,51873,3.6,225335,5.3,49492,4.4,136817,5.9,24.6,30050,5.0,99.2
+Jun-1998,249909,5.8,54492,5.0,236390,4.9,51544,4.1,145355,6.2,24.7,31694,5.5,99.7
+Jun-1999,265445,6.2,57340,5.2,248518,5.1,53683,4.1,155535,7.0,25.1,33598,6.0,101.3
+Jun-2000,274479,3.4,58680,2.3,258683,4.1,55303,3.0,165126,6.2,25.0,35302,5.1,101.0
+Jun-2001,279467,1.8,59073,0.7,263894,2.0,55782,0.9,176235,6.7,25.0,37252,5.5,101.1
+Jun-2002,290262,3.9,60595,2.6,276073,4.6,57633,3.3,189193,7.4,25.1,39496,6.0,101.5
+Jun-2003,297993,2.7,61505,1.5,286315,3.7,59095,2.5,200501,6.0,25.0,41383,4.8,101.3
+Jun-2004,308438,3.5,62944,2.3,301334,5.2,61495,4.1,214776,7.1,24.9,43830,5.9,100.9
+Jun-2005,321695,4.3,64895,3.1,315920,4.8,63730,3.6,229529,6.9,24.9,46303,5.6,100.6
+Jun-2006,329216,2.3,65539,1.0,323772,2.5,64455,1.1,241582,5.3,24.2,48093,3.9,98.0
+Jun-2007,338689,2.9,66358,1.2,335130,3.5,65661,1.9,258826,7.1,23.8,50711,5.4,96.3
+Jun-2008,351024,3.6,67511,1.7,351763,5.0,67653,3.0,282140,9.0,24.0,54263,7.0,96.9
+Jun-2009,357970,2.0,67373,-0.2,353863,0.6,66600,-1.6,293425,4.0,23.3,55225,1.8,94.1
+Jun-2010,360958,0.8,66607,-1.1,361827,2.3,66767,0.3,307141,4.7,23.6,56676,2.6,95.2
+Jun-2011,371607,3.0,67618,1.5,376332,4.0,68477,2.6,329258,7.2,23.2,59912,5.7,93.8
+Jun-2012,380422,2.4,68032,0.6,385332,2.4,68910,0.6,343697,4.4,22.9,61464,2.6,92.3
+Jun-2013,383778,0.9,67216,-1.2,387964,0.7,67950,-1.4,351308,2.2,22.9,61529,0.1,91.8
+Jun-2014,391501,2.0,67123,-0.1,393123,1.3,67401,-0.8,363171,3.4,22.7,62266,1.2,90.7
+Jun-2015,402514,2.8,67564,0.7,402464,2.4,67556,0.2,378426,4.2,23.3,63521,2.0,92.4
+Jun-2016,416614,3.5,68375,1.2,413435,2.7,67853,0.4,393709,4.0,23.7,64616,1.7,93.3
+Jun-2017,432526,3.8,69261,1.3,432738,4.7,69295,2.1,416682,5.8,23.6,66724,3.3,92.3
+Jun-2018,447294,3.4,70031,1.1,449452,3.9,70369,1.5,440247,5.7,23.8,68928,3.3,92.4
+Jun-2019,461248,3.1,70647,0.9,461248,2.6,70647,0.4,461248,4.8,23.6,70647,2.5,91.1
+Jun-2020,458895,-0.5,68996,-2.3,457172,-0.9,68737,-2.7,467876,1.4,23.6,70346,-0.4,90.4
